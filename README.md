@@ -1,6 +1,6 @@
 ## Oie eu sou a Kerolyne Dias!
-   •Técnica em Informática
-   •1º Periodo de Análise de Sistemas
+   • 3/3 Técnico em Informática
+   • 1/5 em Análise e Desenvolvimento de Sistemas
 <div align="justify">
   <a href="https://github.com/eukerolyne">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eukerolyne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
