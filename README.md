@@ -1,5 +1,5 @@
 ## Oie eu sou a Kerolyne Dias!
-   • 3/3 Técnico em Informática
+   • Técnica em Informática
    • 1/5 em Análise e Desenvolvimento de Sistemas
 <div align="justify">
   <a href="https://github.com/eukerolyne">
