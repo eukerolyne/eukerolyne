@@ -1,6 +1,6 @@
 ## Oie eu sou a Kerolyne Dias!
    • Técnica em Informática
-   • 1/5 em Análise e Desenvolvimento de Sistemas
+   • 2/5 em Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/eukerolyne">
 </div>
