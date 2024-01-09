@@ -1,4 +1,4 @@
-## Oie eu sou a Kerolyne Dias!
+## Oie eu sou a Kerolyne!
    • Técnica em Informática
    • 3/5 em Análise e Desenvolvimento de Sistemas
 <div align="center">
