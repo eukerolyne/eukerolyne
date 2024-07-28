@@ -27,6 +27,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eukerolyne/eukerolyne/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/eukerolyne/eukerolyne/outputs/snake.svg" alt="Snake animation" />
 
 ###
