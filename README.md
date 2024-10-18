@@ -1,4 +1,4 @@
-<h2 align="left">Oii 👋! Meu nome é Kerolyne e eu sou dev. back-end na Prefeitura de Vila Velha</h2>
+<h2 align="left">Oii 👋! Meu nome é Kerolyne</h2>
 
 ###
 
